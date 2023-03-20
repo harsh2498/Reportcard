@@ -1,0 +1,51 @@
+#table
+{
+    width: 1500px;
+    background-color:cornsilk;
+    margin-left: 0cm;
+}
+.showresult
+{
+    color:white;
+    background-color: green;
+    margin-left: 2cm;
+}
+h1{
+    text-align: center;
+    background-color: rgb(118, 140, 38);
+}
+body {
+    background-color:dimgrey;
+}
+
+.report
+{
+    text-align: center;
+    background-color: rgb(213, 129, 20);
+    width:500px;
+    margin-left: 500px;
+    font-size: x-large;
+
+}
+footer
+{
+    background-color: black;
+}
+.para2
+{
+    color: white;
+    text-align: center;
+}
+nav{
+    background-color: black;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+.home
+{
+    color: white;
+}
+.report h2{
+    color: darkgreen;
+}
